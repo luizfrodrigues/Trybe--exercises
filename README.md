@@ -1,28 +1,38 @@
 # Trybe Exercises
+
 This repository have all the exercises developed by [Luiz Fernando de Oliveira Rodrigues](https://www.linkedin.com/in/luiz-fernando-de-oliveira-rodrigues-03092b25/) during Trybe's course.
 
 ### [Trybe](https://www.betrybe.com/) :rocket:
+
 Trybe is a school for people who want to wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
 
 ## How to access the exercises
-Everyday I'll be making new Pull Requests with new branches for each day. 
+
+Everyday I'll be making new Pull Requests with new branches for each day.
 To access the files from terminal, make a clone of the repository with:
+
 ```git
 git clone https://github.com/luizfrodrigues/Trybe--exercises.git
 ```
+
 Then, you have to change branches according to the lecture you want to visit:
+
 ```git
 git checkout exercises/lecture_number
 ```
+
 The lecture number is displayed in the section Trybe Lectures as `lecture_number: content`.
+
 - :hourglass_flowing_sand: - Ongoing
 - :heavy_check_mark: - Completed
 - :closed_book: - Not started
 
 # Trybe Lectures
+
 ## Introduction - Fundamentals of Web Development :hourglass_flowing_sand:
+
 ##### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
 - [ ] 1.3: Unix & Bash - Part 1
@@ -105,7 +115,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [ ] 11.1: 'Hello, world!' on React!
 - [ ] 11.2: React Components
-- [X] [11.3: Project - Movie Cards Library](https://github.com/tryber/sd-08-project-movie-cards-library/pull/109){:target="_blank"}
+- [x] 11.3: [Project - Movie Cards Library](https://github.com/tryber/sd-08-project-movie-cards-library/pull/109)
 
 ##### Unit 12: Componets with State, Events and Forms with React :closed_book:
 
@@ -117,7 +127,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [ ] 13.1: Components Life Cycle on React
 - [ ] 13.2: React Router
-- [X] [13.3: Project - Movie Cards Library CRUD](https://github.com/tryber/sd-08-project-movie-cards-library-crud/pull/24){:target="_blank"}
+- [x] 13.3: [Project - Movie Cards Library CRUD](https://github.com/tryber/sd-08-project-movie-cards-library-crud/pull/24)
 
 ##### Unit 14: Agile Methodologies :closed_book:
 
@@ -155,7 +165,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [ ] 19.1: Project - Recipes App
 
- ## Back-end Development :closed_book:
+## Back-end Development :closed_book:
 
 ##### Unit 20: Introduction to SQL :closed_book:
 
@@ -187,7 +197,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 ##### Unit 24: MongoDB: Simple and Complex Updates :closed_book:
 
-- [ ] 24.1: Simple Updates 
+- [ ] 24.1: Simple Updates
 - [ ] 24.2: Complex Updates - Arrays - Part 1
 - [ ] 24.3: Complex Updates - Arrays - Part 2
 - [ ] 24.4: Project - Commerce
@@ -261,7 +271,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 - [ ] 35.1: Learning Python
 - [ ] 35.2: Tests and Exeptions
-- [ ] 35.3: Data Input and Output 
+- [ ] 35.3: Data Input and Output
 - [ ] 35.4: Data Scraping
 - [ ] 35.5: Project - Tech News
 
