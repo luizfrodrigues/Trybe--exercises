@@ -35,16 +35,16 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 
 ##### Unit 1: Introduction - Unix & Shell :heavy_check_mark:
 
-- [ ] 1.3: Unix & Bash - Part 1
-- [ ] 1.4: Unix & Bash - Part 2
+- [X] 1.3: Unix & Bash - Part 1
+- [X] 1.4: Unix & Bash - Part 2
 
 ##### Unit 2: Git & GitHub :heavy_check_mark:
 
-- [ ] 2.1: What it is and what it's meant for
-- [ ] 2.2: Understandign the commands
-- [ ] 2.3: Internet - How it works?
+- [X] 2.1: What it is and what it's meant for
+- [X] 2.2: Understandign the commands
+- [X] 2.3: Internet - How it works?
 
-##### Unit 3: Introduction to HTML & CSS :heavy_check_mark:
+##### Unit 3: Introduction to HTML & CSS
 
 - [ ] 3.1: HTML & CSS - Page structures
 - [ ] 3.2: HTML & CSS - First steps in CSS
@@ -52,7 +52,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 3.4: Semantic HTML
 - [ ] 3.5: [Project - Lessons Learned]()
 
-##### Unit 4: Introduction to JavaScript and Programming Logic :hourglass_flowing_sand:
+##### Unit 4: Introduction to JavaScript and Programming Logic
 
 - [ ] 4.1: JavaScript - First steps
 - [ ] 4.2: JavaScript - Array and for loops
