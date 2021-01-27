@@ -109,9 +109,9 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 10.3: Jest - Simulating behaviors
 - [ ] 10.4: Project - Asynchronous Jest and Mocking
 
-## Front-end Development :closed_book:
+## Front-end Development :hourglass_flowing_sand:
 
-##### Unit 11: Introduction to React :closed_book:
+##### Unit 11: Introduction to React :hourglass_flowing_sand:
 
 - [ ] 11.1: 'Hello, world!' on React!
 - [ ] 11.2: React Components
@@ -129,7 +129,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 13.2: React Router
 - [x] 13.3: [Project - Movie Cards Library CRUD](https://github.com/tryber/sd-08-project-movie-cards-library-crud/pull/24)
 
-##### Unit 14: Agile Methodologies :closed_book:
+##### Unit 14: Agile Methodologies :hourglass_flowing_sand:
 
 - [ ] 14.1: Agile Methodologies
 - [ ] 14.2: Project - Frontend Online Store
