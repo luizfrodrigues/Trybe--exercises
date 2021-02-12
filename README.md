@@ -141,9 +141,9 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 15.3: RTL - Testing React Router
 - [ ] 15.4: Project - Tests on React
 
-##### Unit 16: State Management with Redux :closed_book:
+##### Unit 16: State Management with Redux :hourglass_flowing_sand:
 
-- [ ] 16.1: Introduction to Redux
+- [X] 16.1: Introduction to Redux
 - [ ] 16.2: React with Redux - Part 1
 - [ ] 16.3: React with Redux - Pratice
 - [ ] 16.4: React with Redux - Part 2
