@@ -94,7 +94,7 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 8.2: JavaScript ES6 - Higher Order Functions - map and filter
 - [ ] 8.3: JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.4: JavaScript ES6 - Spread operator, rest parameter, destructuring and more
-- [ ] 8.5: Project - Zoo functions
+- [X] 8.5: [Project - Zoo functions](https://github.com/tryber/sd-08-project-zoo-function/pull/13)
 
 ##### Unit 9: Asynchronicity & Callbacks :closed_book:
 
@@ -129,22 +129,22 @@ The lecture number is displayed in the section Trybe Lectures as `lecture_number
 - [ ] 13.2: React Router
 - [x] 13.3: [Project - Movie Cards Library CRUD](https://github.com/tryber/sd-08-project-movie-cards-library-crud/pull/24)
 
-##### Unit 14: Agile Methodologies :hourglass_flowing_sand:
+##### Unit 14: Agile Methodologies :heavy_check_mark:
 
-- [ ] 14.1: Agile Methodologies
-- [ ] 14.2: Project - Frontend Online Store
+- [x] 14.1: Agile Methodologies
+- [X] 14.2: [Project - Frontend Online Store](https://github.com/tryber/sd-08-project-frontend-online-store/pull/83)
 
-##### Unit 15: Automated Tests with React Testing Library :closed_book:
+##### Unit 15: Automated Tests with React Testing Library :heavy_check_mark:
 
 - [ ] 15.1: RTL - First steps
 - [ ] 15.2: RTL - Mocks and Inputs
 - [ ] 15.3: RTL - Testing React Router
-- [ ] 15.4: Project - Tests on React
+- [X] 15.4: [Project - Tests on React](https://github.com/tryber/sd-08-project-react-testing-library/pull/21)
 
-##### Unit 16: State Management with Redux :closed_book:
+##### Unit 16: State Management with Redux :hourglass_flowing_sand:
 
-- [ ] 16.1: Introduction to Redux
-- [ ] 16.2: React with Redux - Part 1
+- [x] 16.1: Introduction to Redux
+- [x] 16.2: React with Redux - Part 1
 - [ ] 16.3: React with Redux - Pratice
 - [ ] 16.4: React with Redux - Part 2
 - [ ] 16.5: Synchronous tests with React-Redux
